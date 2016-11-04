@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Invector-3rdPersonController\Scripts\Ragdoll\vCollisionMessage.cs">
+    <Files>
+      <File FileName="Assets\Enter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Invector-3rdPersonController\Scripts\CharacterController\vThirdPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Invector-3rdPersonController\Scripts\Camera\v3rdPersonCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Invector-3rdPersonController\Scripts\MeleeCombat\vMeleeWeapon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Invector-3rdPersonController\Scripts\MeleeCombat\vMeleeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Invector-3rdPersonController\Scripts\MeleeCombat\vHitBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Invector-3rdPersonController\Scripts\Ragdoll\vCollisionMessage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 63a60150a1e823c4790362ab610de793
+timeCreated: 1475716950
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bowl
+    100002: cabinet
+    100004: Camera
+    100006: chair
+    100008: cloth
+    100010: couch
+    100012: couchback
+    100014: Cube.007
+    100016: floor
+    100018: framebed
+    100020: fridge
+    100022: goblet
+    100024: //RootNode
+    100026: Lamp
+    100028: stove
+    100030: wall
+    100032: wall2
+    100034: wall3
+    400000: bowl
+    400002: cabinet
+    400004: Camera
+    400006: chair
+    400008: cloth
+    400010: couch
+    400012: couchback
+    400014: Cube.007
+    400016: floor
+    400018: framebed
+    400020: fridge
+    400022: goblet
+    400024: //RootNode
+    400026: Lamp
+    400028: stove
+    400030: wall
+    400032: wall2
+    400034: wall3
+    2300000: bowl
+    2300002: cabinet
+    2300004: chair
+    2300006: cloth
+    2300008: couch
+    2300010: couchback
+    2300012: Cube.007
+    2300014: floor
+    2300016: framebed
+    2300018: fridge
+    2300020: goblet
+    2300022: stove
+    2300024: wall
+    2300026: wall2
+    2300028: wall3
+    3300000: bowl
+    3300002: cabinet
+    3300004: chair
+    3300006: cloth
+    3300008: couch
+    3300010: couchback
+    3300012: Cube.007
+    3300014: floor
+    3300016: framebed
+    3300018: fridge
+    3300020: goblet
+    3300022: stove
+    3300024: wall
+    3300026: wall2
+    3300028: wall3
+    4300000: wall3
+    4300002: wall2
+    4300004: wall
+    4300006: framebed
+    4300008: Cube.007
+    4300010: fridge
+    4300012: stove
+    4300014: floor
+    4300016: cabinet
+    4300018: bowl
+    4300020: cloth
+    4300022: goblet
+    4300024: couchback
+    4300026: couch
+    4300028: chair
+    6400000: bowl
+    6400002: cabinet
+    6400004: chair
+    6400006: cloth
+    6400008: couch
+    6400010: couchback
+    6400012: Cube.007
+    6400014: floor
+    6400016: framebed
+    6400018: fridge
+    6400020: goblet
+    6400022: stove
+    6400024: wall
+    6400026: wall2
+    6400028: wall3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
